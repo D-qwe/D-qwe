@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there, I'm D-qwe 👋
 
-<!--
-**D-qwe/D-qwe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 我目前正在学习 **ROS 机器人开发与 Linux 基础**。
+- 🌱 我刚刚完成了我的第一个 GitHub PR！
+- 🐳 我喜欢折腾 Docker。
+- 🎨 偶尔也会看看二次元插画。
 
-Here are some ideas to get you started:
+### 🛠️ 我的技能树
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![D-qwe's GitHub stats](https://github-readme-stats.vercel.app/api?username=D-qwe&show_icons=true&theme=radical)
