@@ -16,8 +16,6 @@
 ![DeepSeek](https://img.shields.io/badge/DeepSeek-Fan-4B0082?style=for-the-badge)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-  < img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
-</div>
 
 ## 学习study
 
@@ -34,11 +32,9 @@
 </div>
 
 <!-- 🖼️ 这里放您的二次元大图！ -->
-<img width="1650" height="1287" alt="屏幕截图_19-10-2026_114113_www bilibili com" src="https://github.com/user-attachments/assets/f9bf4e57-a37a-4f24-b2d4-f0d74ee85338" />
 
 <img width="1943" height="1287" alt="bee9aeaf617caa63ae79fabf87b12329" src="https://github.com/user-attachments/assets/219601ac-841f-40ec-9599-9c1a4834add3" />
-<img width="1094" height="1200" alt="42507867_p0" src="https://github.com/user-attachments/assets/7812a51a-a31b-43a8-93d1-4248c7dc29f4" />
-<img width="887" height="1200" alt="105615307_p0" src="https://github.com/user-attachments/assets/110b861d-8a37-4f7b-939f-d9c97d7d1994" />
+
 
 <!-- 您可以用本地图片，也可以直接贴网络图片链接 -->
 <div align="center">
