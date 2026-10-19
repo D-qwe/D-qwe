@@ -23,3 +23,30 @@
 <div align="center">
   < img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </div>
+
+## 不想学习 😭😭
+
+![D-qwe's GitHub stats](https://github-readme-stats.vercel.app/api?username=D-qwe&show_icons=true&theme=radical)
+
+<div align="center">
+
+[![知乎](https://img.shields.io/badge/知乎-D--qwe-blue)](https://www.zhihu.com/)
+[![DeepSeek](https://img.shields.io/badge/AI-DeepSeek-purple)](https://www.deepseek.com/)
+[![Linux](https://img.shields.io/badge/OS-Linux-yellow)](https://ubuntu.com/)
+[![ROS](https://img.shields.io/badge/Robot-ROS-blue)](https://www.ros.org/)
+[![二次元](https://img.shields.io/badge/爱好-二次元-pink)]()
+
+</div>
+
+<!-- 🖼️ 这里放您的二次元大图！ -->
+<img width="1943" height="1287" alt="bee9aeaf617caa63ae79fabf87b12329" src="https://github.com/user-attachments/assets/219601ac-841f-40ec-9599-9c1a4834add3" />
+
+<!-- 您可以用本地图片，也可以直接贴网络图片链接 -->
+<div align="center">
+  < img src="https://s2.loli.net/2024/01/01/your_image_link_here.jpg" width="800" />
+</div>
+
+<!-- 🔢 底部访问计数器 -->
+<div align="center">
+  ![Visitor Count](https://profile-counter.glitch.me/D-qwe/count.svg)
+</div>
