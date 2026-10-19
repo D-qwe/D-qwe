@@ -11,3 +11,15 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ![D-qwe's GitHub stats](https://github-readme-stats.vercel.app/api?username=D-qwe&show_icons=true&theme=radical)
+
+![Snake animation](https://raw.githubusercontent.com/D-qwe/D-qwe/output/github-contribution-grid-snake.svg)
+
+![trophy](https://github-profile-trophy.vercel.app/?username=D-qwe&theme=radical&column=7)
+
+![Anime](https://img.shields.io/badge/Anime-Watcher-FF69B4?style=for-the-badge&logo=crunchyroll&logoColor=white)
+![DeepSeek](https://img.shields.io/badge/DeepSeek-Fan-4B0082?style=for-the-badge)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+<div align="center">
+  < img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</div>
