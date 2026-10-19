@@ -18,7 +18,6 @@
 ![DeepSeek](https://img.shields.io/badge/DeepSeek-Fan-4B0082?style=for-the-badge)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-<div align="center">
   < img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </div>
 
@@ -27,7 +26,7 @@
 ![D-qwe's GitHub stats](https://github-readme-stats.vercel.app/api?username=D-qwe&show_icons=true&theme=radical)
 
 <div align="center">
-
+  
 [![知乎](https://img.shields.io/badge/知乎-D--qwe-blue)](https://www.zhihu.com/)
 [![DeepSeek](https://img.shields.io/badge/AI-DeepSeek-purple)](https://www.deepseek.com/)
 [![Linux](https://img.shields.io/badge/OS-Linux-yellow)](https://ubuntu.com/)
