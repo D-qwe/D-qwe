@@ -10,8 +10,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-
-![Snake animation](https://raw.githubusercontent.com/D-qwe/D-qwe/output/github-contribution-grid-snake.svg)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=D-qwe&theme=radical)](https://git.io/streak-stats)
 
 ![Anime](https://img.shields.io/badge/Anime-Watcher-FF69B4?style=for-the-badge&logo=crunchyroll&logoColor=white)
 ![DeepSeek](https://img.shields.io/badge/DeepSeek-Fan-4B0082?style=for-the-badge)
