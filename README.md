@@ -14,8 +14,6 @@
 
 ![Snake animation](https://raw.githubusercontent.com/D-qwe/D-qwe/output/github-contribution-grid-snake.svg)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=D-qwe&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
-
 ![Anime](https://img.shields.io/badge/Anime-Watcher-FF69B4?style=for-the-badge&logo=crunchyroll&logoColor=white)
 ![DeepSeek](https://img.shields.io/badge/DeepSeek-Fan-4B0082?style=for-the-badge)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
